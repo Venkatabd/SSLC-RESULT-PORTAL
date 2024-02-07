@@ -1,0 +1,98 @@
+
+.gg{
+    position: relative;
+    background-color:rgb(174, 175, 175);
+    height: 1800px;
+     width: 1800px;
+}
+
+
+.login{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    top: 120px;
+    left: 400px;
+    border: 6px lightgreen solid;
+    background-color: rgb(152, 153, 152);
+    height: 350px;
+    width: 450px;
+    border-radius: 11px;
+}
+.login:hover{
+    background-color: rgb(174, 175, 175);
+}
+.marks{
+    position: relative;
+    top: 30px;
+    right: 42px;
+    height: 40px;
+    border-radius: 5px;
+}
+.marks:hover{
+    transform: scale(1);
+    background-color: lightgreen;
+    color: black;
+    
+}
+.marks2{
+    position: relative;
+    top: 30px;
+    right: -90px;
+    height: 40px;
+    border-radius: 5px;
+}
+.marks2:hover{
+    transform: scale(1);
+    background-color: lightgreen;
+    color: black;
+    
+}
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -20px;
+    font-size: 22px;
+    
+}
+.name2{
+    display: flex;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -10px;
+    right: -1px;
+    border-radius: 10px;
+}
+.name2:hover{
+    background-color: lightgreen;
+    border: white 2px solid;
+}
+.name3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -20px;
+    right: -5px;
+    font-size: 20px;
+}
+.name4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -10px;
+    right: -5px;
+    height: 30px;
+    border-radius: 10px;
+}
+.name4:hover{
+    background-color: lightgreen;
+    border: white 2px solid;
+}
